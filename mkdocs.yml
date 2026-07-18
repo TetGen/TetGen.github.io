@@ -1,0 +1,4 @@
+site_name: TetGen
+site_url: https://TetGen.github.io
+theme:
+  name: material
