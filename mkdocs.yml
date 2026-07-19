@@ -2,3 +2,10 @@ site_name: TetGen Draft Homepage
 site_url: https://TetGen.github.io
 theme:
   name: material
+nav:
+  - index.md
+  - features.md
+  - fformats.md
+  - plc.md
+  - Release notes: https://codeberg.org/TetGen/TetGen/src/branch/main/CHANGELOG.md
+  - logo.md
